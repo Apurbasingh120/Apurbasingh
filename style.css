@@ -900,6 +900,15 @@ section {
     color: var(--text-secondary);
 }
 
+.contact-item a {
+    color: var(--text-secondary);
+    transition: var(--transition);
+}
+
+.contact-item a:hover {
+    color: var(--primary-color);
+}
+
 .contact-social {
     display: flex;
     gap: 15px;
