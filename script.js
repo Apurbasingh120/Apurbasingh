@@ -32,7 +32,10 @@ const titles = [
     'Full Stack Developer',
     'UI/UX Designer',
     'Problem Solver',
-    'Tech Enthusiast'
+    'Tech Enthusiast',
+    'Cinematographer',
+    'Photographer',
+    'Professional Editor'
 ];
 let titleIndex = 0;
 let charIndex = 0;
